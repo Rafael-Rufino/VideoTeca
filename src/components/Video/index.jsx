@@ -6,7 +6,7 @@ export default function Video({ id, title, link, liked }) {
     <li>
       <Container>
         <h2>{title}</h2>
-        <a href={link} target="_blank">
+        <a href={link} target="blank">
           {link}
         </a>
 

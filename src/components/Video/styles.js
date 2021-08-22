@@ -14,6 +14,8 @@ export const Container = styled.div`
 
   h2 {
     color: #1e1e1e;
+    font-size: 1rem;
+    text-align: center;
   }
   a {
     border-left: 3px solid #bbbbbb;
