@@ -6,7 +6,9 @@
 </h1>
 
 <br><br>
-<a href="https://github.com/Rafael-Rufino/Api_VideoTeca.git" target="_blank">Acessar => Back-End</a>
+Acessar API
+<br><br>
+<a href="https://github.com/Rafael-Rufino/Api_VideoTeca.git" target="_blank">Back-End</a>
 
 ## :bookmark: Sobre
 
