@@ -2,7 +2,7 @@
 import React from "react";
 import { Container, VideoListWrapper } from "./styles";
 import Video from "../Video";
-import AddVideo from "../AddVideo";
+// import AddVideo from "../AddVideo";
 import { useAxios } from "../../hooks/useAxios";
 
 export default function VideoList() {
@@ -32,7 +32,7 @@ export default function VideoList() {
           />
         ))}
 
-        <AddVideo />
+        {/* <AddVideo /> */}
       </VideoListWrapper>
     </Container>
   );
