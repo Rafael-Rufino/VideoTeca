@@ -4,9 +4,14 @@
     <b>Projeto para Armazenar Videos</b><br>
 
 </h1>
+
+<br><br>
+<a href="https://github.com/Rafael-Rufino/Api_VideoTeca.git" target="_blank">Acessar => Back-End</a>
+
 ## :bookmark: Sobre
 
 O <strong>VideoTeca</strong> é uma aplicação Web voltada para Armazenar videos.
+<br>
 
 ## Conceitos aprendido
 
@@ -40,6 +45,8 @@ O <strong>VideoTeca</strong> é uma aplicação Web voltada para Armazenar video
   <a href="#tecnologias-utilizadas">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#como-usar">Como Usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Como-Contribuir">Como Contribuir</a>
+ 
+ 
 </p>
 
 <p align="center">
@@ -76,7 +83,11 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 1. Faça um clone :
 
 ```sh
+  Front-End
   git clone https://github.com/Rafael-Rufino/VideoTeca.git
+
+  Back-End
+  git clone https://github.com/Rafael-Rufino/Api_VideoTeca.git
 ```
 
 2. Executando a Aplicação:
